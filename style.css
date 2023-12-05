@@ -232,7 +232,7 @@ p {
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
 }
 .cha {
-  height: 50px;
+  height: 30px;
   width: 50px;
   background-color: white;
   border-radius: 100%;
