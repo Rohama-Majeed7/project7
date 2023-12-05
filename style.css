@@ -321,12 +321,8 @@ p {
   }
   .chat-center {
     grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
-    justify-items: center;
   }
   .sel {
     height: 30px;
-  }
-  .chat2{
-    margin-left: 0.5rem;
   }
 }
