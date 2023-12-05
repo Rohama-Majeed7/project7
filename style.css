@@ -260,7 +260,7 @@ p {
   display: flex;
   align-items: center;
   width: 250px;
-  margin-left: 0.6rem;
+  margin-left: 0rem;
 }
 .chat1 p,
 .chat2 p {
@@ -325,5 +325,8 @@ p {
   }
   .sel {
     height: 30px;
+  }
+  .chat2{
+    margin-left: 0.5rem;
   }
 }
