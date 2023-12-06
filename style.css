@@ -6,8 +6,9 @@
   text-decoration: none;
   list-style: none;
 }
-input:active{
-  color: white;
+input[type=text]:focus {
+  border: 3px solid white;
+outline: none;
 }
 body {
   background-color: #232323;
