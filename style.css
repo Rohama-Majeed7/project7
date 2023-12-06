@@ -129,6 +129,7 @@ body {
   cursor: pointer;
   display: flex;
   justify-content: space-between;
+  position: relative;
 }
 .accordion-content {
   display: block;
