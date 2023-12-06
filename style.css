@@ -6,6 +6,9 @@
   text-decoration: none;
   list-style: none;
 }
+input:active{
+  color: white;
+}
 body {
   background-color: #232323;
   font-size: 16px;
