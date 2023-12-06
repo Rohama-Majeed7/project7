@@ -342,6 +342,7 @@ p {
   .accor-btn {
     flex-direction: column;
     gap: 1.2rem;
+    margin-top: 1.1rem;
   }
   .header .nav1 {
     justify-content: left;
