@@ -88,9 +88,11 @@ body {
   background-color: #474747;
 }
 .token input {
-  padding:0.1rem;
   background: transparent;
   border: none;
+}
+.token input::placeholder{
+  color: white;
 }
 .nav2-btns1 i {
   color: gray;
