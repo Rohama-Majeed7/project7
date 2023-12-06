@@ -72,6 +72,12 @@ body {
   background: transparent;
   color: white;
 }
+.div4 input {
+  padding: 0.7rem;
+  width: 100%;
+  border: none;
+  background: transparent;
+}
 .nav2 {
   display: flex;
   gap: 2rem;
@@ -90,8 +96,9 @@ body {
 .token input {
   background: transparent;
   border: none;
+  height: 10px;
 }
-.token input::placeholder{
+.token input::placeholder {
   color: white;
 }
 .nav2-btns1 i {
@@ -235,10 +242,11 @@ p {
   border-radius: 0.8rem;
 }
 .token input {
-  padding: 1.5rem;
+  padding: 1.1rem;
   background-color: #474747;
   margin: 0.5rem 0;
-  border-radius: 1rem;
+  border-radius: 0.3rem;
+  height: 15px;
 }
 .div-1 i {
   font-size: 0.6rem;
@@ -265,7 +273,7 @@ p {
 }
 .name p {
   background-color: #474747;
-  padding: 0.3rem ;
+  padding: 0.3rem;
   border-radius: 0.4rem;
 }
 .sel-center {
