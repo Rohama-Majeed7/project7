@@ -147,7 +147,8 @@ body {
   border: none;
   background-color: #474747;
 }
-.bn input,.bn button{
+.bn input,
+.bn button {
   background-color: #474747;
   padding: 0.4rem 0.6rem;
   border: none;
@@ -338,6 +339,10 @@ p {
   body {
     font-size: 16px;
   }
+  .accor-btn {
+    flex-direction: column;
+    gap: 1rem;
+  }
   .header .nav1 {
     justify-content: left;
   }
@@ -350,6 +355,7 @@ p {
   .nav2 {
     flex-direction: column;
     margin: 1rem 0;
+    gap: 1rem;
   }
   .center {
     flex-direction: column;
